@@ -1,5 +1,5 @@
 I am Muskan Ansari
-💻 IT Engineering Student | 🚀 Aspiring Developer  
+💻 IT Engineering Student |🚀 Aspiring Developer  
 
 I work with Python, Flutter, and web technologies (HTML, CSS, JavaScript)  
 🧠 Strong knowledge of Data Structures & Problem Solving  
