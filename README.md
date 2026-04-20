@@ -1,4 +1,18 @@
+I am Muskan Ansari
 
+💻 IT Engineering Student | 🚀 Aspiring Developer  
+
+I work with Python, Flutter, and web technologies (HTML, CSS, JavaScript)  
+
+🧠 Strong knowledge of Data Structures & Problem Solving  
+
+🔨 Built **ProMinis** – a platform for student micro-job opportunities  
+
+⚡ Knowledge in Git, MySQL & VS Code  
+
+🤝 Strong in teamwork, marketing, communication & collaboration  
+
+📈 Always learning and growing in tech
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_themuskaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muskan-ansari-59802334a?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Knnowledge_hub) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muskanaansari01@gmail.com) 
 
