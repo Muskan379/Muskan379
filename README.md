@@ -3,7 +3,6 @@ I am Muskan Ansari
 
 I work with Python, Flutter, and web technologies (HTML, CSS, JavaScript)  
 🧠 Strong knowledge of Data Structures & Problem Solving  
-🔨 Built **ProMinis** – a platform for student micro-job opportunities  l  
 🤝 Strong in teamwork, marketing, communication & collaboration  
 📈 Always learning and growing in tech
 
